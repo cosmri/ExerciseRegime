@@ -1,0 +1,17 @@
+.section {
+    text-align: center;
+
+}
+
+i {
+    color:"white";
+    text-align: right;
+}
+
+.form-group {
+    text-align: center;
+}
+
+.card:hover {
+box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+}
